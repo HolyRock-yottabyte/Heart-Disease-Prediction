@@ -61,7 +61,7 @@ Elde edilen sonuçlar, Logistic Regression modelinin kalp hastalığı tahminind
 
 ## 👤 Hazırlayan
 
-* **Mert Kutlukaya**
+* **Mehmet Mert Kutlukaya**
 
 ## 🔗 GitHub
 
